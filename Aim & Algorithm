@@ -1,0 +1,16 @@
+Experiment 3: Slideshow
+
+Aim
+To develop an Android application that displays images as a slideshow using ImageView and Handler.
+
+Algorithm
+1.Start Android Studio and create a new project.
+2.Add ImageView in the activity_main.xml layout.
+3.Place images in the drawable folder.
+4.Create an array of images in MainActivity.
+5.Declare a Handler to control the time delay.
+6.Create a Runnable method to change images.
+7.Use setImageResource() to display images.
+8.Use postDelayed() to change the image every few seconds.
+9.Run the application.
+10.Images will automatically change like a slideshow.
