@@ -1,4 +1,4 @@
-package com.example.jayanth3;
+package com.example.exp3;
 
 import android.os.Bundle;
 import android.os.Handler;
